@@ -1,0 +1,101 @@
+@media (max-width: 992px) {
+  .hero {
+    padding: 100px 0;
+  }
+  .dream-title h1{
+    font-size: 1.3rem;
+  }
+  .dream-subtitle{
+    font-size: 0.8rem
+  }
+  .dream-btn-know a{
+    padding:8px 20px;
+  }
+  .transform-content div{
+    flex-wrap: wrap;
+  }
+  .transform-content-box-icon{
+    width:60px;
+    height: 60px;
+    top: 10px;
+  }
+  .box-energy-content-right, .box-energy-content-text-icon{
+    display:none;
+  }
+  .energy h2{
+    font-size:24px;
+    line-height: 36px;
+  }
+  .foods{
+    margin:0 0 20px 0;
+  }
+  .foods.content-image{
+    display:none;
+  }
+  .foods-content-text{
+    padding: 0 20px;
+  }
+  .foods-content-text h2{
+    font-size: 24px;
+    line-height:36px;
+  }
+  .happy .overlay-happy{
+    display: none;
+  }
+  .happy-icon-arrow-right{
+    display:none;
+  }
+  .box-happy-right{
+    margin:0;
+    flex-wrap: wrap;
+  }
+  .box-happy-left{
+    padding:50px;
+  }
+  .box-happy-right{
+    position: relative;
+  }
+  .box-happy-left-text h2{
+    font-size:24px;
+    line-height:32px;
+  }
+  .share{
+    padding:30px 0;
+  }
+  .box-share{
+    flex-wrap: wrap;
+    padding:0;
+  }
+  .box-share-left-text h2{
+    font-size:24px;
+    line-height:32px;
+  }
+  .box-share-right{
+    flex-wrap: wrap;
+  }
+  .box-btn-sport{
+    flex-wrap: wrap;
+  }
+  .box-btn-sport a{
+    margin: 10px;
+  }
+  .box-sport-arrow-left, .box-sport-arrow-right{
+    display: none;
+  }
+  .box-sport-images div{
+    flex-wrap: wrap;
+  }
+  .partner h2{
+    font-size:24px;
+    line-height: 32px;
+  }
+  .newsletter .box-newsletter{
+    flex-wrap: wrap;
+  }
+  .box-bottom{
+    flex-wrap: wrap;
+  }
+  .box-bottom-left{
+    padding:10px 0
+  }
+}
